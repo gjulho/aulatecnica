@@ -1,1 +1,1 @@
-Meu codigo serva para entender o html
+Meu codigo serve para entender o html
